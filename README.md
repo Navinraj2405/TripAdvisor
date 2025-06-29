@@ -1,19 +1,37 @@
-🌍 Just Launched: Travel Advisor Website (Responsive Web Project) ✈️
+ # 🧭 Responsive Travel Website | TripAdvisor-Inspired 🌍
 
-I'm thrilled to share a web development project I recently completed — a responsive travel website inspired by TripAdvisor! This site was built entirely using HTML and CSS, focusing on a clean layout, responsive design, and user-friendly experience.
+A clean and responsive travel website inspired by **TripAdvisor**, built using only **HTML5** and **CSS3**. This project demonstrates my front-end development skills with a focus on **layout design**, **responsiveness**, and **visual content presentation**.
 
-🔹 Project Highlights:
+ 
 
-Built with HTML5 & CSS3 for structure and styling
+---
 
-Utilized Flexbox for a flexible, modern layout
+## 📌 Overview
 
-Designed a fully responsive interface that adapts to mobile, tablet, and desktop screens
+This project replicates the structure and feel of a travel booking site. It includes:
 
-Included high-quality travel images that scale and adjust seamlessly
+- ✅ Header with navigation bar  
+- ✅ Destination cards with images and descriptions  
+- ✅ Responsive layout using **Flexbox**  
+- ✅ Mobile-first design with **media queries**  
+- ✅ Clean typography and spacing
 
-Focused on clean UI/UX design principles to create an engaging user experience
+---
 
-Created custom destination cards, rating sections, and navigation bar
+## 🛠 Tech Stack
 
-This project allowed me to practice core web development skills and understand how to build a layout that works across devices. I'm proud of how it turned out and excited to keep improving my front-end development journey.
+- **HTML5** – Semantic structure  
+- **CSS3** – Styling, spacing, and effects  
+- **Flexbox** – Layout system  
+- **Media Queries** – Device responsiveness  
+- *(Optional)* Google Fonts and icons
+
+---
+
+## 📱 Screenshots
+
+*Add screenshots here if desired:*
+
+
+
+
